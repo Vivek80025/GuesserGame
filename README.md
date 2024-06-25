@@ -1,1 +1,1 @@
-# GuesserGame
+A console-based game written is Java, where a Guesser guess a number and gives to Umpire. The game involves multiple Players who take turns guessing the number and gives to Umpire. The Umpire provides feedback on the guesses. The Player whose number natches the Guesser's number wins the game.
